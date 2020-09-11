@@ -1,0 +1,12 @@
+.spinner_box{
+    position: fixed;
+    top: 48%;
+    left: 48%;
+}
+#app_bar{
+    padding: 20px;
+}
+.app_bar_title{
+    padding: 5px;
+    padding-left: 20px;
+}

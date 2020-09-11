@@ -1,0 +1,12 @@
+.beer_list_item{
+    color: black;
+    text-decoration: none;
+}
+#list_box{
+    min-height: 400px;
+}
+#page_information{
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    display: inline-block;
+    margin: 5px;
+}

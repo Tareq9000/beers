@@ -1,0 +1,35 @@
+.image{
+    max-width: 30%;
+}
+.imagePaper{
+    text-align: center;
+}
+.paper_box{
+    padding: 10px;
+}
+.ingredients_name{
+    font-size: 16px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.ingredients_amount{
+    font-size: 12px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+#title{
+    display: inline-block;
+}
+#under_title{
+    float: right;
+    
+}
+.info_element_box{
+    margin-bottom: 20px;
+}
+.go_back_button{
+    color: white;
+    text-decoration: none;
+}
